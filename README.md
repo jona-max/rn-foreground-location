@@ -12,7 +12,7 @@ npm install rn-foreground-location
 
 
 ```js
-import { multiply } from 'rn-foreground-location';
+import { multiply } from 'rn-foreground-location'; // Import the function
 
 // ...
 
